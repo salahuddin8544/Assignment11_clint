@@ -21,7 +21,7 @@ const SingUp = () => {
         <div className="hero-content flex-col">
           <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
             <form  onSubmit={handleSignUp} className="card-body">
-            <h1 className="text-5xl font-bold">Sign Up</h1>
+            <h1 className="text-5xl font-bold">Register</h1>
               <div className="form-control">
                 <label className="label">
                   <span className="label-text">Name</span>

@@ -1,9 +1,17 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import img  from '../../assets/images/login/login.svg'
+import { FaGoogle } from "react-icons/fa";
 import { AuthContext } from '../../context/AuthProvider/AuthProvider';
 const Login = () => {
-  const {login} = useContext(AuthContext)
+  const {login,GoogleUser} = useContext(AuthContext)
+  const handleGoogle=()=>{
+    GoogleUser()
+    .then(result=>{
+      const user =result.user;
+      console.log(user);
+    })
+    .catch(err=>console.log(err))
+  }
     const handleSubmit = event=>{
       const form = event.target;
       const email = form.email.value;
@@ -26,19 +34,20 @@ const Login = () => {
                 <label className="label">
                   <span className="label-text">Email</span>
                 </label>
-                <input name='email' type="text" placeholder="email" className="input input-bordered" />
+                <input name='email' type="text" placeholder="email" className="input input-bordered" required />
               </div>
               <div className="form-control">
                 <label className="label">
                   <span className="label-text">Password</span>
                 </label>
-                <input name='password' type="text" placeholder="password" className="input input-bordered" />
+                <input name='password' type="text" placeholder="password" className="input input-bordered" required />
               </div>
               <div className="form-control mt-6">
                 <input type="submit" className='btn btn-success' value="Submit" />
               </div>
             </form>
-            <p className='text-center py-4'>New to Photography? <Link className='text-orange-700' to={'/signup'}>SignUp</Link> </p>
+            <button onClick={handleGoogle} className='btn btn-dark mt-2'> <FaGoogle className='mr-2'></FaGoogle>  Login with Google</button>
+            <p className='text-center py-4'>New to Photography? <Link className='text-orange-700' to={'/register'}>SignUp</Link> </p>
           </div>
         </div>
       </div>
