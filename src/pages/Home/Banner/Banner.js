@@ -1,4 +1,5 @@
 import React from 'react';
+import homeImg from '../../../assets/images/banner/banner.jpg'
 import img1  from '../../../assets/images/Carousel/1.jpg'
 import img2  from '../../../assets/images/Carousel/2.jpg'
 import img3  from '../../../assets/images/Carousel/3.jpg'
@@ -33,6 +34,10 @@ const Banner = () => {
     ]
     return (
         <div>
+           <div className='text-center text-2xl'>
+           <h3 className='pb-2'>Welcome to my website</h3>
+           <img className='h-60 w-full rounded' src={homeImg} alt="" />
+           </div>
             <div className="carousel w-full py-10">
         {
             bannerData.map(slide => <BannerItem
