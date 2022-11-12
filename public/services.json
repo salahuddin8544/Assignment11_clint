@@ -1,152 +1,50 @@
 [
     {
-        "service_id": "04",
-        "title": "Engine Oil Change",
-        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "img": "https://1.bp.blogspot.com/-ZhJStCZpEvA/VbB5CAlRNgI/AAAAAAAAax4/eQdzW6cHrto/s640/Edit_Champs_Swim_Meet_2015_0162.JPG",
+        "title": "Swiming photgrphy",
         "price": "20.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
-    },
-    {
-        "service_id": "05",
-        "title": "Battery Charge",
-        "img": "https://i.ibb.co/ydCbDN3/5555.jpg",
-        "price": "20.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
-    },
-    {
         "service_id": "01",
-        "title": "Full car Repair",
-        "img": "https://i.ibb.co/R6Z2nFM/55.jpg",
-        "price": "200.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
+        "rate":"4.5",
+        "description": "Both of our kids have been swimming for our local swim club since they were 4 years old. And last weekend was the last meet for my daughter. That means that, after 16 years of waking up early on Saturday mornings to watch the kids swim, we have hit the end of the road. Both kids have now aged out of the swim team. Most people at our club know that I am an Olympic photographer, which means that people are always asking me to photograph these types of events. And for those of you who photograph sports, you know that when shooting these events, you actually miss most of the meet. I end up concentrating on the focus, composition and everything photographic, but miss the race itself. So...for many of the last meets, I chose not to bring the camera, and to just be dad."
     },
     {
         "service_id": "02",
-        "title": "Engine Repair",
-        "img": "https://i.ibb.co/5MvmD2g/88.jpg",
-        "price": "150.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
+        "rate":"4.5",
+        "title": "Fottball photgrphy",
+        "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/16/full/1631766502-0839.jpg?im=Resize,width=640",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!"
     },
     {
         "service_id": "03",
-        "title": "Automatic Services",
-        "img": "https://i.ibb.co/wh7t3N3/555.jpg",
+        "rate":"4.5",
+        "title": "Hockey photgrphy",
+        "img": "https://cdn.vox-cdn.com/thumbor/l93tQos74D51MuDud6LorfLUr-s=/0x0:2700x1800/920x613/filters:focal(767x341:1199x773):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71439679/2021_11_27ColgateRaidersUConnMHOC047.0.jpeg",
+        "price": "200.00",
+        "description": "The day has finally arrived. After a long offseason, UConn men’s hockey opens the 2022-23 campaign at Vermont tonight at 7 p.m. To get you ready, we’ve put all our preview content in one place If Boston College came calling a few years ago, Cavanaugh might’ve felt differently. But now that his family is getting older, the new rink is going up and he’s become more established at UConn, he didn’t want to leave it all behind. Cavanaugh still has plenty of love for his home of 18 years — he met his wife at Chestnut Hill and their two kids were baptized on the campus — but that chapter of his time at BC has ended. He’s not ready to start a new one."
+    },
+    {
+        "service_id": "04",
+        "rate":"4.5",
+        "title": "Cricket photgrphy",
+        "img": "https://expertreviews.b-cdn.net/sites/expertreviews/files/styles/er_main_wide/public/2020/09/best_cricket_bats_lifestyle.jpg?itok=qLRi-k2H",
+        "price": "150.00",
+        "description": "If like us, you’ve come down with Ashes fever, you may be thinking about buying one of the best cricket bats available in time for pre-season nets in the spring. Cricket’s iconic Test series between England and Australia got under way in early December and will conclude in January, with England needing a turnaround of miraculous proportions to triumph Down Under and regain the urn. It may be the middle of winter in the UK, but the off-season is a great time to invest in one of the best cricket bats available. Retailers often slash prices on older stock and you’ll have plenty of time to acclimatise yourself to your new blade in the nets. So, if you need to buy a new cricket bat, there’s no time like the present."
+    },
+    {
+        "service_id": "05",
+        "rate":"4.5",
+        "title": "Batminton photgrphy",
+        "img": "https://images.hindustantimes.com/img/2022/09/28/550x309/D_1664342861066_1664342861276_1664342861276.jpg",
         "price": "30.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
+        "description": "Badminton is an intriguing game, but like any other sport, it comes with a set of guidelines. As a professional, it is critical to be aware of certain things that can cost you chances of winning. Yes, we are speaking about fouls that can lead you to lose a point or service. The fouls can be segregated into five categories – contact, double-hit, service, service receiving, and over-the-net foul."
     },
     {
         "service_id": "06",
-        "title": "Electrical System",
-        "img": "https://i.ibb.co/KzCG8qr/8888.jpg",
+        "rate":"4.5",
+        "title": "Basket Ball photgrphy",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fehabphotography.com%2Fbasketball-photography-tips%2F&psig=AOvVaw2QcJCUoCg05nLb3bIohDXM&ust=1668327070304000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiwpLzUqfsCFQAAAAAdAAAAABAD",
         "price": "20.00",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
-        "facility": [
-            {
-                "name": "Instant Car Services",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "24/7 Quality Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Easy Customer Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            },
-            {
-                "name": "Quality Cost Service",
-                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
-            }
-        ]
+        "description": "this may come in very handy because during games you are usually placed in an assigned seat. You should, therefore, choose your composition and your lens very wisely. You should, therefore, use a wide angle lens. To shoot a perfectly sharp image that is well exposed, especially in an environment with low light, choose the widest aperture and make use of a monopod chair to rest your camera. This is important so as to prevent blurring."
     }
 ]
