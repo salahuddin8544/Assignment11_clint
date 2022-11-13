@@ -12,8 +12,6 @@ useEffect(()=>{
        <div>
          <div className='text-center'>
             <p className="text-2xl font-bold text-orange-600">Services</p>
-            <h2 className='font-semi-bold'>Our Service Area</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam esse quos accusamus maiores architecto itaque pariatur aperiam vel illo ut?</p>
         </div>
         <div className='grid gap-5 gird-cols-1 md:grid-cols-2 lg:grid-cols-3'>
             {
