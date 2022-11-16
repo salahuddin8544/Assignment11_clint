@@ -4,8 +4,8 @@ import img2 from '../../../assets/images/about/about2.jpg'
 import img3 from '../../../assets/images/about/about3.jpg'
 const About = () => {
     return (
-        <div className='text-center my-3'>
-             <p className="text-4xl font-bold text-orange-700 my-3">My Team </p>
+        <div className='text-center'>
+             <p className="text-4xl font-bold text-orange-700 my-3">My Services </p>
             <div className='grid gap-5 gird-cols-1 md:grid-cols-2 lg:grid-cols-3 my-3'>
          <div className="card w-96 bg-base-100 shadow-xl">
          <figure><img className='rounded-full w-60 h-60' src={img1} alt="Shoes" /></figure>
