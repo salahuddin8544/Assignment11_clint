@@ -12,7 +12,7 @@ useEffect(()=>{
     return (
        <div>
          <div className='text-center'>
-            <p className="text-4xl font-bold text-orange-700 my-3">My Services </p>
+            <p className="text-4xl font-bold text-orange-700 mb-3">My Services </p>
         </div>
         <div className='grid gap-5 gird-cols-1 md:grid-cols-2 lg:grid-cols-3'>
             {
@@ -26,7 +26,7 @@ useEffect(()=>{
         </div>
         <div className='text-center'>
         <Link to={'/allServices'}>
-        <button className="btn btn-warning my-3">See All</button>
+        <button className="btn btn-warning">See All</button>
         </Link>
         </div>
        </div>

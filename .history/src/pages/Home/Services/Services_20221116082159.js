@@ -26,7 +26,7 @@ useEffect(()=>{
         </div>
         <div className='text-center'>
         <Link to={'/allServices'}>
-        <button className="btn btn-warning my-3">See All</button>
+        <button className="btn btn-warning">See All</button>
         </Link>
         </div>
        </div>
