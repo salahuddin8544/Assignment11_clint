@@ -1,11 +1,11 @@
 import React, { useContext } from 'react';
-import { AuthContext } from '../../AuthProvider/AuthProvider';
 import { Navigate, useLocation } from 'react-router-dom';
+import { AuthContext } from '../../../context/AuthProvider/AuthProvider';
 
 
-const PrivatRoute = ({children}) => {
+const PrivateRoute = ({children}) => {
     const location  = useLocation()
-    const {user,loading} = useContext(AuthContext);
+    const {user,loading} =useContext(AuthContext);
     if(loading){
         return   <button className="btn loading">loading</button>
     }
@@ -20,4 +20,4 @@ const PrivatRoute = ({children}) => {
 
 };
 
-export default PrivatRoute;
+export default PrivateRoute;
