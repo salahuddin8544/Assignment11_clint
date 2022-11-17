@@ -7,7 +7,7 @@ const TotalReviews = () => {
        const [reviews, setReviews] = useState([])
        useEffect(() => {
           
-           fetch(`http://localhost:5000/reviews/${user?.email}`)
+           fetch(`https://photography-assignment11-server.vercel.app/reviews/${user?.email}`)
            .then(res => res.json())
            .then(data => setReviews(data))
        }, [user?.email])

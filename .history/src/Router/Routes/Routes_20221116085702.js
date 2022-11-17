@@ -40,7 +40,7 @@ const router = createBrowserRouter([
             {
                 path:'/services/:id',
                 element:<Details></Details>,
-                loader:({params})=> fetch(`http://localhost:5000/services/${params.id}`)
+                loader:({params})=> fetch(`https://photography-assignment11-server.vercel.app/${params.id}`)
             },
             {
                 path:'/allServices',
@@ -49,7 +49,7 @@ const router = createBrowserRouter([
             {
                 path:'/review/:id',
                 element:<PrivateRoute><ReviewForm></ReviewForm> </PrivateRoute>,
-                loader:({params})=> fetch(`http://localhost:5000/services/${params.id}`)
+                loader:({params})=> fetch(`https://photography-assignment11-server.vercel.app/${params.id}`)
             },
             {
                 path:'/reviews',
